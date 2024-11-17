@@ -6,10 +6,6 @@
 
 ### 🌟 Una aplicación de chat que conecta dos usuarios aleatorios en tiempo real
 
-[Demo en vivo](https://your-demo-link.com) | [Reportar Bug](https://github.com/yourusername/random-chat-app/issues) | [Solicitar Feature](https://github.com/yourusername/random-chat-app/issues)
-
-</div>
-
 ---
 
 ## ✨ Características Principales
@@ -42,7 +38,7 @@
 1️⃣ **Clona el repositorio**
 
 ```bash
-git clone https://github.com/yourusername/random-chat-app.git
+git clone https://github.com/FideoKojima/DesafioConsumoAPI-REST.git
 ```
 
 2️⃣ **Instala las dependencias**
@@ -87,13 +83,6 @@ random-chat-app/
 - Historial de conversación
 - Indicador de propietario del mensaje
 
-## 🎨 Vista Previa
-
-<div align="center">
-<img src="/api/placeholder/400/300" alt="Chat Interface"/>
-<img src="/api/placeholder/400/300" alt="Message Colors"/>
-</div>
-
 ## ⚙️ Requerimientos Técnicos
 
 ✅ Axios para consumo de API Random User
@@ -129,12 +118,6 @@ mounted() {
    ```
 5. 🔄 Abre un Pull Request
 
-## 📝 Licencia
-
-<div align="center">
-
-MIT © [Tu Nombre]
-
 **¿Te gustó este proyecto? ¡Dale una ⭐!**
 
 </div>
@@ -143,6 +126,6 @@ MIT © [Tu Nombre]
 
 <div align="center">
 
-Hecho con ❤️ por [Tu Nombre]
+Hecho con ❤️ por [Luis Suarez]
 
 </div>
