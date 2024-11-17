@@ -2,12 +2,7 @@
 
 <div align="center">
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/random-chat-app?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/random-chat-app?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/random-chat-app?style=flat-square)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-<img src="/api/placeholder/800/400" alt="Random Chat App Preview"/>
+[Vista Previa del Proyecto](https://desafio-consumo-api-rest-two.vercel.app/)
 
 ### 🌟 Una aplicación de chat que conecta dos usuarios aleatorios en tiempo real
 
