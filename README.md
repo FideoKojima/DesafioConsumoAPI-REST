@@ -1,4 +1,4 @@
-# DesafioConsumoAPI-REST
+# consumo
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -8,7 +8,7 @@ This template should help get you started developing with Vue 3 in Vite.
 
 ## Customize configuration
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
 
@@ -27,4 +27,3 @@ npm run dev
 ```sh
 npm run build
 ```
-"# DesafioConsumoAPI-REST" 
